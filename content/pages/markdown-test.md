@@ -5,9 +5,11 @@ draft: false
 title: markdown test
 uid: e70b3d51-4519-47de-82ac-3ed3e1138efa
 ---
-markdown test
+[markdown test](https://commons.wikimedia.org/wiki/File:Saint_Joseph_charpentier_%28La_Tour%29.jpg)
 
-Einstein theorized \\(E=mc^2\\) and I say \\(d > 1\\)
+[Einstein theorized](https://commons.wikimedia.org/wiki/File:Saint_Joseph_charpentier_%28La_Tour%29.jpg) \\(E=mc^2\\) [and I say](https://commons.wikimedia.org/wiki/File:Saint_Joseph_charpentier_%28La_Tour%29.jpg) \\(d > 1\\)
+
+\\(E=mc^2\\)
 
 \\[E=mc^2\\]
 
