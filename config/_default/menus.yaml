@@ -1,0 +1,5 @@
+leftnav:
+- identifier: e70b3d51-4519-47de-82ac-3ed3e1138efa
+  name: markdown test
+  pageRef: /pages/markdown-test
+  weight: 10
