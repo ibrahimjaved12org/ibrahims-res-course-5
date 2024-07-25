@@ -7,7 +7,7 @@ uid: e70b3d51-4519-47de-82ac-3ed3e1138efa
 ---
 [test 123](https://en.wikipedia.org/wiki/Unicorn_%28disambiguation%29)
 
-\\(e=mc^2\\)
+[\\(e=mc^2\\)](https://en.wikipedia.org/wiki/Unicorn_%28disambiguation%29)
 
 [Einstein theorized](https://en.wikipedia.org/wiki/Unicorn_%28disambiguation%29) \\(E=mc^2\\) [and I say](https://en.wikipedia.org/wiki/Unicorn_%28disambiguation%29) \\(d > 1\\)
 
